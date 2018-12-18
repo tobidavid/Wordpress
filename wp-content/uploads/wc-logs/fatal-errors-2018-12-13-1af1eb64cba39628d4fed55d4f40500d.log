@@ -1,0 +1,118 @@
+2018-12-13T02:07:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\custom-header-logo.php on line 9
+
+2018-12-13T02:08:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T02:08:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T02:14:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php on line 78
+
+2018-12-13T02:21:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T02:27:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T02:29:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T03:10:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-privacy.php on line 3
+
+2018-12-13T03:10:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\admin\settings\general.class.php on line 11
+
+2018-12-13T03:10:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\controls\class-control-parent.php on line 21
+
+2018-12-13T03:14:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T03:14:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-13T03:16:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T03:17:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T03:17:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T03:20:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\repeater.php on line 4
+
+2018-12-13T03:20:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T03:21:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-theme.php on line 1018
+
+2018-12-13T03:44:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 5118
+
+2018-12-13T03:44:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php on line 81
+
+2018-12-13T03:44:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\modules\checkbox.php on line 8
+
+2018-12-13T04:09:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T04:09:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T04:15:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T08:07:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php on line 159
+
+2018-12-13T09:29:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php on line 191
+
+2018-12-13T09:57:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\controls\class-control-radio.php on line 19
+
+2018-12-13T10:29:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T10:31:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-base.php on line 14
+
+2018-12-13T10:31:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\file.php on line 16
+
+2018-12-13T11:52:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\oceanwp\inc\customizer\settings\header.php on line 8
+
+2018-12-13T13:06:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\manager.php on line 6
+
+2018-12-13T13:49:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function-integration.php on line 10
+
+2018-12-13T16:33:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\admin\feedback.php on line 9
+
+2018-12-13T16:33:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-content-forms\class-themeisle-content-forms-server.php on line 9
+
+2018-12-13T16:33:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\start.php on line 32
+
+2018-12-13T16:33:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-13T16:33:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\controls.php on line 4
+
+2018-12-13T16:33:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\metabox\shortcodes.php on line 11
+
+2018-12-13T16:33:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\start.php on line 32
+
+2018-12-13T16:33:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\panel\notice.php on line 11
+
+2018-12-13T16:33:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-13T16:34:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php on line 257
+
+2018-12-13T16:34:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T17:52:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+
+2018-12-13T18:49:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T19:23:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\metabox\gallery-metabox\gallery-metabox.php on line 11
+
+2018-12-13T19:36:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib-session.php on line 8
+
+2018-12-13T19:38:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T20:14:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-13T21:09:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\deprecated.php on line 20
+
+2018-12-13T21:09:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\includes\product\legacy.class.php on line 10
+
+2018-12-13T21:17:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\tags.php on line 9
+
+2018-12-13T21:33:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 3789
+
+2018-12-13T21:48:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\sources\remote.php on line 7
+
+2018-12-13T22:30:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\functions.php on line 17
+
+2018-12-13T22:44:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2018-12-13T22:44:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-13T22:52:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\finder\module.php on line 9
+

@@ -1,0 +1,8 @@
+2018-12-16T11:25:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\video.php on line 6
+
+2018-12-16T12:20:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\entry.php on line 43
+
+2018-12-16T15:48:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\includes\types\elusive.php on line 6
+
+2018-12-16T18:41:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-duplicate-product.php on line 2
+

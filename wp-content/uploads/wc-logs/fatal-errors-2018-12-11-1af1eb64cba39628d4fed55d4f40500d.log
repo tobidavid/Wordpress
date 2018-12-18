@@ -1,0 +1,44 @@
+2018-12-11T04:37:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1991
+
+2018-12-11T04:38:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\admin-footer.php on line 10
+
+2018-12-11T08:58:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-11T14:26:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T14:28:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 14
+
+2018-12-11T14:55:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T14:55:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T14:58:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T14:58:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2018-12-11T15:01:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T16:36:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 23
+
+2018-12-11T16:41:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib-core.php on line 10
+
+2018-12-11T16:41:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\class-themeisle-sdk-feedback-deactivate.php on line 12
+
+2018-12-11T17:31:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php on line 16
+
+2018-12-11T17:52:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T18:03:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-12-11T18:04:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\sticky-header-effects-for-elementor\includes\modules-manager.php on line 6
+
+2018-12-11T18:04:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function-integration.php on line 10
+
+2018-12-11T18:06:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_FatalErrorMonitor.php on line 6
+
+2018-12-11T18:06:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\sticky-header-effects-for-elementor\base\module-base.php on line 6
+
+2018-12-11T18:07:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\functions-core.php on line 22
+
+2018-12-11T18:58:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
